@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/graphics_items">
+        <file>graphic_items/drone.png</file>
+        <file>graphic_items/bus.png</file>
+        <file>graphic_items/busstop.png</file>
+        <file>graphic_items/small_plane.png</file>
+    </qresource>
+</RCC>
