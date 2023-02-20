@@ -1,4 +1,4 @@
 # Now-It-When
-Shooting game developed in the course Programming 3: Techniques
+Shooting game developed in C++
 
-*Note: This is the work done in group, not only me.*
+*Note: This is a course project done in group.*
